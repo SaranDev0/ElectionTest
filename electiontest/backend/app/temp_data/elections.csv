@@ -1,0 +1,7 @@
+constituency_id,candidate_id,party,votes,total_votes
+101,C1,Independent,62000,120000
+101,C2,UML,42000,120000
+102,C3,Congress,58000,115000
+102,C4,UML,47000,115000
+103,C5,Maoist,51000,110000
+103,C6,Independent,59000,110000

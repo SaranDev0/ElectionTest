@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f4f6f8;
+  color: #1a1a1a;
+}
+
+/* HEADER */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, #c62828, #0d47a1);
+  color: white;
+  padding: 16px 32px;
+}
+
+.header-left h1 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.header-left p {
+  margin: 2px 0 0;
+  font-size: 13px;
+}
+
+.lang-switch {
+  display: flex;
+  gap: 8px;
+}
+
+.lang-switch button {
+  background: white;
+  color: #0d47a1;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* PANELS */
+.panel {
+  background: white;
+  border-left: 5px solid #c62828;
+  padding: 16px;
+  margin-bottom: 18px;
+  border-radius: 6px;
+}
+
+.panel h2 {
+  margin: 0 0 10px;
+  color: #0d47a1;
+  font-size: 18px;
+}
+
+/* UPLOAD */
+.upload-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.upload-row label {
+  width: 150px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* BUTTONS */
+button {
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: none;
+  background: #0d47a1;
+  color: white;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.primary {
+  background: #2e7d32;
+}
+
+.danger {
+  background: #c62828;
+}
+
+.action-row {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+/* PM CARD */
+.pm-card {
+  background: #1a237e;
+  color: white;
+  padding: 14px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+/* CANDIDATE GRID */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+
+.card {
+  background: #e3f2fd;
+  border-left: 4px solid #0d47a1;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+/* CHARTS – POSTER SIZE */
+.charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.chart-box {
+  height: 260px;
+  background: #fafafa;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+canvas {
+  width: 100% !important;
+  height: 220px !important;
+}
+
+/* PRINT MODE */
+@media print {
+  button {
+    display: none;
+  }
+  body {
+    background: white;
+  }
+}
+
+
+
+
+
