@@ -10,7 +10,7 @@ To improve transparency and interpretability, the project integrates SHAP-based 
 The frontend is implemented using HTML, CSS, and JavaScript and communicates with the backend through REST APIs. It provides a structured dashboard interface inspired by government analytics portals, supporting CSV uploads, prediction execution, visualization through charts, accuracy display, and report downloads. The interface supports both English and Nepali language presentation to improve accessibility.
 
 This project is intended as an academic and portfolio demonstration of applied machine learning, data engineering, and full-stack development. It emphasizes system design, explainability, and analytical reasoning rather than real-world political prediction, making it suitable for educational evaluation, technical interviews, and further research experimentation.
-#Outputs/Ui
+# Outputs/Ui
 <img width="1916" height="821" alt="Screenshot 2026-02-09 214659" src="https://github.com/user-attachments/assets/e83ec1a4-f522-43b8-a0f6-da68c62f1594" />
 <img width="1913" height="824" alt="Screenshot 2026-02-09 214733" src="https://github.com/user-attachments/assets/98973e42-1418-4bdc-8c52-41e6d23c997a" />
 <img width="1919" height="783" alt="Screenshot 2026-02-09 214749" src="https://github.com/user-attachments/assets/4eded4d4-bacf-4e8a-bcac-d38c8df3732a" />
