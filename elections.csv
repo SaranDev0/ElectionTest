@@ -1,0 +1,101 @@
+constituency_id,candidate_id,candidate_name,party,votes,total_votes
+1,C1,Ankit Patel,Party A,42098,116048.0
+1,C2,Mahesh Nair,Party A,14165,135302.0
+2,C3,Ravi Reddy,Independent,103850,106062.0
+2,Amit Gupta,Party D,116093,116463,
+3,C5,Suresh Yadav,Party D,30379,116421.0
+3,C6,Ankit Patel,Party A,57052,92676.0
+3,C7,Rohan Verma,Party D,59615,96361.0
+4,C8,Karthik Menon,Party C,102349,105203.0
+4,C9,Kunal Malhotra,Party A,59823,93238.0
+4,C10,Deepak Chauhan,Party B,37460,126566.0
+4,C11,Vikram Singh,Independent,80010,102431.0
+4,C12,Nitin Agarwal,Party C,99733,108785.0
+3,C13,Rohan Verma,Party B,62581,121347.0
+5,C14,Sunil Pillai,Party C,113712,145435.0
+5,C15,Rahul Mehta,Party C,107647,112325.0
+5,C16,Sunil Pillai,Party D,57447,132350.0
+5,C17,Ravi Reddy,Party D,24371,86175.0
+5,C18,Sanjay Pandey,Independent,60019,130432.0
+6,C19,Neeraj Joshi,Independent,80381,95014.0
+6,C20,Pankaj Mishra,Party A,30730,136985.0
+6,C21,Neeraj Joshi,Independent,76542,103416.0
+6,C22,Kunal Malhotra,Independent,30032,106071.0
+6,C23,Ravi Reddy,Party A,74042,122487.0
+6,C24,Kunal Malhotra,Party B,84364,111571.0
+6,C25,Prakash Iyer,Party A,42967,149822.0
+6,C26,Mahesh Nair,Party B,120923,149163.0
+6,C27,Manish Kumar,Party C,67422,128944.0
+5,C28,Amit Gupta,Party B,12757,124313.0
+5,C29,Amit Gupta,Party A,40007,87716.0
+7,C30,Pankaj Mishra,Party A,46500,111195.0
+7,C31,Rahul Mehta,Independent,73700,141953.0
+7,C32,Manish Kumar,Party A,56438,136498.0
+7,C33,Rohan Verma,Party A,105448,132772.0
+7,C34,Amit Gupta,Party B,28373,138800.0
+7,C35,Amit Gupta,Party A,16630,92833.0
+7,C36,Aarav Sharma,Party A,31798,110982.0
+7,C37,Nitin Agarwal,Party A,10282,129672.0
+8,C38,Arjun Rao,Party C,50579,143788.0
+8,C39,Rohan Verma,Independent,51104,87989.0
+8,C40,Ravi Reddy,Independent,76562,87455.0
+8,C41,Karthik Menon,Party A,62923,110828.0
+9,C42,Amit Gupta,Independent,20745,85209.0
+9,C43,Ravi Reddy,Party C,97782,106772.0
+9,C44,Nitin Agarwal,Party B,69929,119321.0
+10,C45,Vikram Singh,Party A,19602,93104.0
+5,C46,Rahul Mehta,Party C,58434,112018.0
+10,C47,Mahesh Nair,Party C,12050,149329.0
+10,C48,Ankit Patel,Party B,24029,95129.0
+10,C49,Kunal Malhotra,Independent,36685,124942.0
+10,C50,Ravi Reddy,Party D,22097,86658.0
+2,C51,Rohan Verma,Party A,93507,97146.0
+1,C52,Arjun Rao,Independent,83519,136057.0
+3,C53,Rahul Mehta,Independent,86350,128393.0
+11,C54,Rohan Verma,Party C,56898,85229.0
+11,C55,Ankit Patel,Party C,91351,133264.0
+11,C56,Amit Gupta,Party B,13248,134040.0
+11,C57,Sanjay Pandey,Party B,24168,100866.0
+11,C58,Prakash Iyer,Party B,55830,140332.0
+2,C59,Amit Gupta,Party B,62227,105313.0
+2,C60,Neeraj Joshi,Party C,114773,146768.0
+8,C61,Pankaj Mishra,Party A,33405,114237.0
+9,C62,Rohan Verma,Party A,55309,136959.0
+8,C63,Karthik Menon,Independent,127899,130488.0
+4,C64,Sanjay Pandey,Party A,57739,105825.0
+1,C65,Pankaj Mishra,Independent,49363,96334.0
+5,C66,Pankaj Mishra,Party D,82667,118752.0
+10,C67,Nitin Agarwal,Party B,63225,119446.0
+8,C68,Kunal Malhotra,Party B,70946,122237.0
+8,C69,Ravi Reddy,Party D,96356,102241.0
+6,C70,Karthik Menon,Party C,98184,110784.0
+3,C71,Rahul Mehta,Party A,72277,112092.0
+1,C72,Arjun Rao,Party D,104155,105485.0
+2,C73,Amit Gupta,Party B,23970,80726.0
+4,C74,Ravi Reddy,Party D,25906,112662.0
+9,C75,Ravi Reddy,Independent,108992,121588.0
+6,C76,Ravi Reddy,Party D,127598,138446.0
+9,C77,Arjun Rao,Party C,93579,112406.0
+8,C78,Prakash Iyer,Party B,20155,137654.0
+5,C79,Pankaj Mishra,Party C,28136,90561.0
+5,C80,Rahul Mehta,Party B,63424,134377.0
+7,C81,Rohan Verma,Party B,128598,131049.0
+5,C82,Aarav Sharma,Independent,11545,142518.0
+5,C83,Nitin Agarwal,Party D,73993,108906.0
+2,C84,Aarav Sharma,Party D,104919,132994.0
+5,C85,Rahul Mehta,Independent,61645,83534.0
+9,C86,Vikram Singh,Party D,33819,140515.0
+1,C87,Manish Kumar,Party D,109775,124236.0
+6,C88,Sanjay Pandey,Party C,15081,141644.0
+2,C89,Deepak Chauhan,Party B,15276,88993.0
+10,C90,Manish Kumar,Party A,41266,99973.0
+10,C91,Sunil Pillai,Party B,110518,113586.0
+10,C92,Ankit Patel,Party B,85849,94168.0
+6,C93,Nitin Agarwal,Party D,19961,105995.0
+5,C94,Amit Gupta,Party A,99687,119529.0
+3,C95,Sunil Pillai,Party A,122296,149827.0
+7,C96,Pankaj Mishra,Party A,37666,144251.0
+8,C97,Arjun Rao,Party B,78386,103086.0
+10,C98,Mahesh Nair,Party D,118230,137091.0
+8,C99,Amit Gupta,Party A,41963,139087.0
+2,C100,Nitin Agarwal,Party C,95200,144789.0
