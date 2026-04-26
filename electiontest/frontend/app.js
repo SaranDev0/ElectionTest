@@ -5,7 +5,6 @@ let pieChart = null;
 const translations = {
   en: {
     title: "Election AI Dashboard",
-    subtitle: "Government of Nepal",
     uploadTitle: "Upload Data",
     electionLabel: "Election CSV",
     socialLabel: "Social Media CSV",
@@ -17,7 +16,6 @@ const translations = {
   },
   np: {
     title: "निर्वाचन एआई ड्यासबोर्ड",
-    subtitle: "नेपाल सरकार",
     uploadTitle: "डाटा अपलोड गर्नुहोस्",
     electionLabel: "निर्वाचन CSV",
     socialLabel: "सामाजिक सञ्जाल CSV",
